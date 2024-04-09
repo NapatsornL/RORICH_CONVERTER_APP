@@ -1,6 +1,6 @@
-# test
+# RORICH: A CURRENCY CONVERTER APPLICATION 
 
-A new Flutter project.
+RoRich, a currency converter application, helps users make effective financial decisions. Designed to find the currency rate and calculate the amount in that specific currency in the application, RoRich provides currency rate information. With a focus on cost-effectiveness, RoRich is committed to offering the best currency exchange rates and meeting diverse financial needs. RoRich is offering a user-friendly experience. RoRich enables users to find the best currency rates for a given period quickly. 
 
 ## Getting Started
 
